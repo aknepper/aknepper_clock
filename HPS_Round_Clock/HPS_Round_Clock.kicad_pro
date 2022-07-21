@@ -378,7 +378,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../Applications/KiCad/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -427,6 +427,10 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "9b013fc1-f69d-432c-985e-0048f3099f3d",
+      "more LEDS"
     ]
   ],
   "text_variables": {}

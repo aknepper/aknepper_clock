@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/Andrea/Desktop/Google HPS/aknepper_clock/HPS_Round_Clock/HPS_Round_Clock.kicad_sch</source>
+    <date>Friday, July 01, 2022 at 02:45:33 PM</date>
+    <tool>Eeschema (6.0.5-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>HPS_Round_Clock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>footprints:BatteryHolder_Keystone_106_1x20mm</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/Coin_Cell_Guide.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">BS-7-ND</field>
+        <field name="MFG">MPD (Memory Protection Devices)</field>
+        <field name="MPN">BS-7</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="MFG" value="MPD (Memory Protection Devices)"/>
+      <property name="MPN" value="BS-7"/>
+      <property name="Digikey PN" value="BS-7-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c42afe0-7ff4-4c98-8c7e-631d1cf1cfd7</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d45f293b-be76-46ab-bdaf-72cd62395845</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_0805_1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">311-1456-1-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">CC0805KKX7R8BB105</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="CC0805KKX7R8BB105"/>
+      <property name="Digikey PN" value="311-1456-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe529f45-85c3-4b34-b17e-8dfd5b05d710</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92fd4fba-0d0a-4298-8d04-179b147f5243</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C_0805_22pf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">311-1103-1-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">CC0805JRNPO9BN220</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_22pf" description="Non polarized capacitor"/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="CC0805JRNPO9BN220"/>
+      <property name="Digikey PN" value="311-1103-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b732446a-eca3-46d3-a437-547cfb13ab98</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90c18031-8105-464a-a9a2-c9ba42508a3c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C_0805_22pf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">311-1103-1-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">CC0805JRNPO9BN220</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_22pf" description="Non polarized capacitor"/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="CC0805JRNPO9BN220"/>
+      <property name="Digikey PN" value="311-1103-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13863760-63a5-43a1-9ad8-2e8b269ceb5e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8276d444-72d5-4f97-8b45-70573202aa72</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4285e35-a7ad-43f0-877a-bb1d02f5436b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d44e70d-55ec-4f51-918f-d81422861154</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>288690d7-b802-482e-b14c-3a4d78d6a0ed</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3cc62a7-96f8-4272-8509-9a74bba4c4c9</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fb20e48-c2ee-481f-a9fc-8a4c1b4c8194</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C_0805_0.1uf</value>
+      <footprint>footprints:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheets.avx.com/X7RDielectric.pdf</datasheet>
+      <fields>
+        <field name="Dielectric">N/A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="Voltage">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="C_0805_0.1uf" description="Non polarized capacitor"/>
+      <property name="MFG" value="AVX Corporation"/>
+      <property name="MPN" value="08055C104KAT2A"/>
+      <property name="Digikey PN" value="478-1395-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Voltage" value="N/A"/>
+      <property name="Dielectric" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0684da96-54c9-41cb-97a4-64dd91d31221</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c9d19ca-9d0b-40a0-8f0e-52d0d601facd</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21e39347-0c78-40e0-9b5a-715574e46424</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5361fc6d-eaa2-4bf4-b116-883535941ad9</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8aedd875-bfb1-4d46-8b9e-430498dd5d88</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb6b83b8-63a6-4707-a532-0aa0e78b5746</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35c76523-5df8-487d-b868-4b9793869809</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7473f093-4dc6-4262-b6ec-39123a157190</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>379de5e7-497f-473b-acd9-ef09a1cf5ddc</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9ccdbe5-3a23-4ffa-a10d-21b9031f4d60</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e05a05f-6bb5-4ec8-8a93-61815ee77d93</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d2b841c-53d8-4498-9df8-6f4aa78b918c</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23ddfe72-0957-422c-88e4-8ac45391bb40</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>448af95c-97ea-4c62-99d4-31e644d01974</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b0718f5-09e5-407c-908e-57825f793d4f</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e83b8342-c86d-48e7-a29c-35add4e2eef4</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d307265-d5c0-47b3-9220-afa8c23547df</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2001eb9-b802-43be-a005-efe93b0b1d42</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a3b115a-add4-413a-a698-5b475f35d71c</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c0e612c-06f3-4735-9de3-4ed905447df9</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a399b09d-bc40-43bf-9cb1-de6a718a1f69</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07644bd5-6a79-4312-beb5-798c44fb583f</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be958d9f-ff37-4021-b4c8-cc9086972f09</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>713b2c5c-3862-42b8-b5a0-337bad8e2b1c</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2411f33-4322-45dc-ab73-638429a83c92</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94c9c541-9498-4f92-b9ed-519be3ac85cc</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>289d5f8c-1eb0-4e24-b4db-60809b8f1e3c</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>641e1dcd-83f9-46d2-b1e2-d9b429f16094</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32dee65a-1bed-4d1e-ae57-89a622541f7d</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e53d74fd-ea8a-4f85-a0dd-2419415d68f9</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>decb633d-a191-49cc-920e-88a2ff59bf82</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57f4d584-85bd-4a7e-b0d2-439f7808d13b</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f03004c5-f89f-443a-963b-0417164b23fe</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04009683-79b8-45f2-bc40-bd6fe99307e3</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b75f2409-8bdc-4685-ad77-a326dca4273a</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffbb7392-8f2c-4e6a-8414-6cc66a0a303e</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3098d3b0-a95f-4a6f-b9a0-43336957bef0</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6344ed0-1c41-44f1-bbe1-582a07f09aaa</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f28fe418-c422-4220-9d80-19f35f7be8de</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82ffae02-d56d-4d87-9c70-86ed922e3b66</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2ceed24-d174-49df-9de1-9e1180a2c7bf</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbacdce9-4ee4-419d-8e61-aafe34583bd9</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c2e1a66-8abc-44c6-856d-059ba8b09ce2</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4c3a49e-ef6a-4507-b92c-c98f0765cc71</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50978075-fa83-45e8-b7df-8cb41511aa67</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0287c932-a410-471b-b307-ac6eea2019c4</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d79df31a-8bf6-460a-b711-af78d8e0f2b6</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>636b8884-5905-43e5-9587-2317ed0fa1ca</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ff77312-f1ff-45b7-b797-f4cd83c06a43</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea1c8115-8f61-44bf-ac12-8fd90c0cf8d4</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d671e091-6522-4851-a9cc-5abae739bad8</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e38e156d-7d0c-4b5d-9a52-7feaf357e654</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6faea97-030d-48d5-8a3e-88d5aced7aaf</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02787208-74ee-4b81-9fb4-5a4b0e702299</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>296fa0b9-e71a-4680-bd16-128d50a74722</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8556f9e2-7a37-48f9-98da-95699ce89602</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5cc1fbd-9916-414f-8f00-6ae32c479c33</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47115095-bcb6-41ff-9857-df5042ebf7ae</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f2a487e-d42b-46c4-831e-79d2497ec6e0</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3ab1d95-84c3-45a1-968f-4331f92b7306</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>NEOPIXEL_SMT</value>
+      <footprint>footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="NEOPIXEL_SMT" description="RGB LED with integrated controller"/>
+      <property name="MFG" value="Inolux"/>
+      <property name="MPN" value="IN-PI554FCH"/>
+      <property name="Digikey PN" value="1830-1106-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad109292-ad4f-4f5f-96f6-2c4747fee182</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>LED_0805</value>
+      <footprint>footprints:LED_0805_2012Metric</footprint>
+      <datasheet>https://www.we-online.de/katalog/datasheet/150080RS75000.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">732-4984-1-ND</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MPN">150080RS75000</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="LED_0805" description="RED Light emitting diode"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MPN" value="150080RS75000"/>
+      <property name="Digikey PN" value="732-4984-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4aeb5dad-b9d5-43c2-8b30-4723967a55e4</tstamps>
+    </comp>
+    <comp ref="DS1">
+      <value>LED_Display_1001</value>
+      <footprint>footprints:Adafruit-1001-0-0-MFG</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/1001datasheet.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1528-1513-ND</field>
+        <field name="MFG">Adafruit Industries LLC</field>
+        <field name="MPN">1001</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="automotive">No</field>
+        <field name="category">Disp</field>
+        <field name="device class L1">Optoelectronics</field>
+        <field name="device class L2">Displays</field>
+        <field name="device class L3">LED Displays</field>
+        <field name="digikey description">WHITE 7-SEGMENT CLOCK DISPLAY</field>
+        <field name="digikey part number">1528-1513-ND</field>
+        <field name="display type">LED</field>
+        <field name="element config">Common Cathode</field>
+        <field name="forward current">20mA</field>
+        <field name="forward voltage">3.2V</field>
+        <field name="height">8.25mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">a002f1a2b35db532</field>
+        <field name="luminous intensity">30mcd</field>
+        <field name="manufacturer">Adafruit</field>
+        <field name="mouser description">Adafruit Accessories White 7-segment Clock Display</field>
+        <field name="mouser part number">485-1001</field>
+        <field name="package">PTH_50MM2_19MM0</field>
+        <field name="power dissipation">100mW</field>
+        <field name="reverse voltage">5V</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+80°C</field>
+        <field name="temperature range low">-40°C</field>
+        <field name="test current">20mA</field>
+      </fields>
+      <libsource lib="HPS" part="LED_Display_1001" description="White 7-segment clock display - 0.56&quot; digit height"/>
+      <property name="automotive" value="No"/>
+      <property name="category" value="Disp"/>
+      <property name="device class L1" value="Optoelectronics"/>
+      <property name="device class L2" value="Displays"/>
+      <property name="device class L3" value="LED Displays"/>
+      <property name="digikey description" value="WHITE 7-SEGMENT CLOCK DISPLAY"/>
+      <property name="digikey part number" value="1528-1513-ND"/>
+      <property name="display type" value="LED"/>
+      <property name="element config" value="Common Cathode"/>
+      <property name="forward current" value="20mA"/>
+      <property name="forward voltage" value="3.2V"/>
+      <property name="height" value="8.25mm"/>
+      <property name="lead free" value="Yes"/>
+      <property name="library id" value="a002f1a2b35db532"/>
+      <property name="luminous intensity" value="30mcd"/>
+      <property name="manufacturer" value="Adafruit"/>
+      <property name="mouser description" value="Adafruit Accessories White 7-segment Clock Display"/>
+      <property name="mouser part number" value="485-1001"/>
+      <property name="package" value="PTH_50MM2_19MM0"/>
+      <property name="power dissipation" value="100mW"/>
+      <property name="reverse voltage" value="5V"/>
+      <property name="rohs" value="Yes"/>
+      <property name="temperature range high" value="+80°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="test current" value="20mA"/>
+      <property name="MFG" value="Adafruit Industries LLC"/>
+      <property name="MPN" value="1001"/>
+      <property name="Digikey PN" value="1528-1513-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7de6436f-3429-4e39-a360-37dc511c2036</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-102AH</value>
+      <footprint>footprints:PJ-102AH</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/pj-102ah.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">CP-102AH-ND</field>
+        <field name="MFG">CUI Devices</field>
+        <field name="MPN">PJ-102AH</field>
+        <field name="Mouser PN">490-PJ-102AH</field>
+      </fields>
+      <libsource lib="HPS" part="PJ-102AH" description=" 2mm center pin, 5A DC power jack"/>
+      <property name="MFG" value="CUI Devices"/>
+      <property name="MPN" value="PJ-102AH"/>
+      <property name="Digikey PN" value="CP-102AH-ND"/>
+      <property name="Mouser PN" value="490-PJ-102AH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3adbd3ee-842f-408c-91c8-0550c0ce2e2b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x06</value>
+      <footprint>footprints:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.we-online.de/katalog/datasheet/6130xx11121.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">732-5319-ND</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MPN">61300611121</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Conn_01x06" description="Generic connector, vertical single row, 01x06"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MPN" value="61300611121"/>
+      <property name="Digikey PN" value="732-5319-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de6b33f1-8d8a-45c8-b479-05d21f571f04</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0abbc3d0-bfcd-4711-9a36-35e3a4375b2e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7062495-5791-4f6b-ab7f-fa28bb3a1657</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eaa8702-a7ab-4bd6-ad8c-649923de9e86</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dea7d44-81ff-418c-acd2-5e05af7feb96</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f8fd3e-3c1d-4243-ad99-0752de3053bf</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R_0805_47</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0747RL/727972</datasheet>
+      <fields>
+        <field name="Digikey PN">RC0805FR-0747RL </field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0747RL </field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_47" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="Digikey PN" value="RC0805FR-0747RL "/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="MPN" value="RC0805FR-0747RL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3abda65-cab6-4d51-86bf-c7a92306ea95</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R_0805_47</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0747RL/727972</datasheet>
+      <fields>
+        <field name="Digikey PN">RC0805FR-0747RL </field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0747RL </field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_47" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="Digikey PN" value="RC0805FR-0747RL "/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="MPN" value="RC0805FR-0747RL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad17bf83-fade-44c6-981a-db21a9d9a0fa</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R_0805_10K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</datasheet>
+      <fields>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_10K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Digikey PN" value="311-10.0KCRCT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e32889b-15d3-4dcf-9e16-8e214f8a12d9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R_0805_1K</value>
+      <footprint>footprints:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444</datasheet>
+      <fields>
+        <field name="Digikey PN">RC0805FR-0710KL</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-071KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="R_0805_1K" description=""/>
+      <property name="MFG" value="Yageo"/>
+      <property name="Digikey PN" value="RC0805FR-0710KL"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Power" value="N/A"/>
+      <property name="Tolerance" value="N/A"/>
+      <property name="MPN" value="RC0805FR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59605bfe-745f-48e9-af2f-6319679ebc11</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Omron_B3F_SPST</value>
+      <footprint>footprints:SW_SPST_Omron_B3FS-100xP</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Omron_B3F_SPST" description="Omron B3F Single Pole Single Throw (SPST) 4 pin switch"/>
+      <property name="MFG" value="Omron Electronics Inc-EMC Div"/>
+      <property name="MPN" value="B3FS-1000P"/>
+      <property name="Digikey PN" value="SW423CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a093f57-1e7f-4d94-ae88-81bf737d3032</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Omron_B3F_SPST</value>
+      <footprint>footprints:SW_SPST_Omron_B3FS-100xP</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Omron_B3F_SPST" description="Omron B3F Single Pole Single Throw (SPST) 4 pin switch"/>
+      <property name="MFG" value="Omron Electronics Inc-EMC Div"/>
+      <property name="MPN" value="B3FS-1000P"/>
+      <property name="Digikey PN" value="SW423CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e58bf15-d5cb-4193-b93f-ca50b7f46abf</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Omron_B3F_SPST</value>
+      <footprint>footprints:SW_SPST_Omron_B3FS-100xP</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Omron_B3F_SPST" description="Omron B3F Single Pole Single Throw (SPST) 4 pin switch"/>
+      <property name="MFG" value="Omron Electronics Inc-EMC Div"/>
+      <property name="MPN" value="B3FS-1000P"/>
+      <property name="Digikey PN" value="SW423CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa992c29-64b1-441e-89b4-f5b0570bb053</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>Omron_B3F_SPST</value>
+      <footprint>footprints:SW_SPST_Omron_B3FS-100xP</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Omron_B3F_SPST" description="Omron B3F Single Pole Single Throw (SPST) 4 pin switch"/>
+      <property name="MFG" value="Omron Electronics Inc-EMC Div"/>
+      <property name="MPN" value="B3FS-1000P"/>
+      <property name="Digikey PN" value="SW423CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b06e9a7-8875-4f25-9c5f-9ee9ec0630f8</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>Omron_B3F_SPST</value>
+      <footprint>footprints:SW_SPST_Omron_B3FS-100xP</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Omron_B3F_SPST" description="Omron B3F Single Pole Single Throw (SPST) 4 pin switch"/>
+      <property name="MFG" value="Omron Electronics Inc-EMC Div"/>
+      <property name="MPN" value="B3FS-1000P"/>
+      <property name="Digikey PN" value="SW423CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfd8e1ed-c880-484e-b150-55541718a74b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>L7805</value>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="HPS" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6ebc42-6389-4744-b5eb-fdb3ff5231ea</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>DS1307_DIP-8</value>
+      <footprint>footprints:DIP-8_W7.62mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/DS1307.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">AE9986-ND</field>
+        <field name="MFG">Assmann WSW Components</field>
+        <field name="MPN">A 08-LC-TT</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="DS1307_DIP-8" description="64 x 8, Serial, I2C Real-time clock, 4.5V to 5.5V VCC, 0°C to +70°C, DIP-8"/>
+      <property name="MFG" value="Assmann WSW Components"/>
+      <property name="MPN" value="A 08-LC-TT"/>
+      <property name="Digikey PN" value="AE9986-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20fa6543-61cf-45e7-a533-c9140033f964</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MAX7219</value>
+      <footprint>footprints:DIP-24_W7.62mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">ED3049-5-ND</field>
+        <field name="MFG">On Shore Technology Inc.</field>
+        <field name="MPN">ED241DT</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="MAX7219" description="8-Digit LED Display Driver"/>
+      <property name="MFG" value="On Shore Technology Inc."/>
+      <property name="MPN" value="ED241DT"/>
+      <property name="Digikey PN" value="ED3049-5-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d3c1800-bfb9-4652-ba0b-2ab89a2005a8</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ATmega328-PU</value>
+      <footprint>footprints:DIP-28_W7.62mm</footprint>
+      <datasheet>http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326</datasheet>
+      <fields>
+        <field name="Digikey PN">ED3050-5-ND</field>
+        <field name="MFG">On Shore Technology Inc.</field>
+        <field name="MPN">ED281DT</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="ATmega328-PU" description="20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28"/>
+      <property name="MFG" value="On Shore Technology Inc."/>
+      <property name="MPN" value="ED281DT"/>
+      <property name="Digikey PN" value="ED3050-5-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee3e78bd-0922-479c-b14b-1b0e4423afbc</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TSOP38238</value>
+      <footprint>footprints:Vishay_MINICAST-3Pin</footprint>
+      <datasheet>https://www.vishay.com/docs/82491/tsop382.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">751-1227-ND</field>
+      </fields>
+      <libsource lib="HPS" part="TSOP38238" description="Photo Modules for PCM Remote Control Systems"/>
+      <property name="Digikey PN" value="751-1227-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e95a4a4-9249-4fcb-ba13-58a8ee5d5621</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_16MHz</value>
+      <footprint>footprints:Crystal_SMD_HC49-SD</footprint>
+      <datasheet>https://ecsxtal.com/store/pdf/csm-7x-dn.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">XC1299CT-ND</field>
+        <field name="MFG">ECS Inc.</field>
+        <field name="MPN">ECS-160-20-5PXDN-TR</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Crystal_16MHz" description="Two pin 16 MHz crystal in HC-49 SMD footprint."/>
+      <property name="MFG" value="ECS Inc."/>
+      <property name="MPN" value="ECS-160-20-5PXDN-TR"/>
+      <property name="Digikey PN" value="XC1299CT-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b199278-9694-46b5-aa47-94c2cf11faa8</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>Crystal_32768Hz</value>
+      <footprint>footprints:Crystal_SMD_2Pin_3.2x1.5mm</footprint>
+      <datasheet>https://www.jauch.com/downloadfile/57fde22d50dbf_d3c203011c87952f2834/jtx310-auto-2-210512.pdf</datasheet>
+      <fields>
+        <field name="Digikey PN">1908-1314-1-ND</field>
+        <field name="MFG">Jauch Quartz</field>
+        <field name="MPN">Q 0,032768-JTX310-12,5-20-T1-HMR-50K-LF</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <libsource lib="HPS" part="Crystal_32768Hz" description="Two pin 16 MHz crystal in HC-49 SMD footprint."/>
+      <property name="MFG" value="Jauch Quartz"/>
+      <property name="MPN" value="Q 0,032768-JTX310-12,5-20-T1-HMR-50K-LF"/>
+      <property name="Digikey PN" value="1908-1314-1-ND"/>
+      <property name="Mouser PN" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HPS_Round_Clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e065b021-7bb7-4750-96d4-6e4a5ade8af9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="HPS" part="ATmega328-PU">
+      <description>20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28</description>
+      <docs>http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega328-PU</field>
+        <field name="Footprint">footprints:DIP-28_W7.62mm</field>
+        <field name="Datasheet">http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326</field>
+        <field name="MFG">On Shore Technology Inc.</field>
+        <field name="MPN">ED281DT</field>
+        <field name="Digikey PN">ED3050-5-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}/PC6" type="tri_state"/>
+        <pin num="2" name="PD0" type="tri_state"/>
+        <pin num="3" name="PD1" type="tri_state"/>
+        <pin num="4" name="PD2" type="tri_state"/>
+        <pin num="5" name="PD3" type="tri_state"/>
+        <pin num="6" name="PD4" type="tri_state"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="XTAL1/PB6" type="tri_state"/>
+        <pin num="10" name="XTAL2/PB7" type="tri_state"/>
+        <pin num="11" name="PD5" type="tri_state"/>
+        <pin num="12" name="PD6" type="tri_state"/>
+        <pin num="13" name="PD7" type="tri_state"/>
+        <pin num="14" name="PB0" type="tri_state"/>
+        <pin num="15" name="PB1" type="tri_state"/>
+        <pin num="16" name="PB2" type="tri_state"/>
+        <pin num="17" name="PB3" type="tri_state"/>
+        <pin num="18" name="PB4" type="tri_state"/>
+        <pin num="19" name="PB5" type="tri_state"/>
+        <pin num="20" name="AVCC" type="power_in"/>
+        <pin num="21" name="AREF" type="passive"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="PC0" type="tri_state"/>
+        <pin num="24" name="PC1" type="tri_state"/>
+        <pin num="25" name="PC2" type="tri_state"/>
+        <pin num="26" name="PC3" type="tri_state"/>
+        <pin num="27" name="PC4" type="tri_state"/>
+        <pin num="28" name="PC5" type="tri_state"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/Coin_Cell_Guide.pdf</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Footprint">footprints:BatteryHolder_Keystone_106_1x20mm</field>
+        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/Coin_Cell_Guide.pdf</field>
+        <field name="MFG">MPD (Memory Protection Devices)</field>
+        <field name="MPN">BS-7</field>
+        <field name="Digikey PN">BS-7-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="C_0805_0.1uf">
+      <description>Non polarized capacitor</description>
+      <docs>https://datasheets.avx.com/X7RDielectric.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_0805_0.1uf</field>
+        <field name="Footprint">footprints:C_0805_2012Metric</field>
+        <field name="Datasheet">https://datasheets.avx.com/X7RDielectric.pdf</field>
+        <field name="MFG">AVX Corporation</field>
+        <field name="MPN">08055C104KAT2A</field>
+        <field name="Digikey PN">478-1395-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Voltage">N/A</field>
+        <field name="Dielectric">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="C_0805_1uf">
+      <description>Non polarized capacitor</description>
+      <docs>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_0805_1uf</field>
+        <field name="Footprint">footprints:C_0805_2012Metric</field>
+        <field name="Datasheet">https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">CC0805KKX7R8BB105</field>
+        <field name="Digikey PN">311-1456-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Voltage">N/A</field>
+        <field name="Dielectric">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="C_0805_22pf">
+      <description>Non polarized capacitor</description>
+      <docs>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_0805_22pf</field>
+        <field name="Footprint">footprints:C_0805_2012Metric</field>
+        <field name="Datasheet">https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">CC0805JRNPO9BN220</field>
+        <field name="Digikey PN">311-1103-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Voltage">N/A</field>
+        <field name="Dielectric">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="Conn_01x06">
+      <description>Generic connector, vertical single row, 01x06</description>
+      <docs>https://www.we-online.de/katalog/datasheet/6130xx11121.pdf</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Footprint">footprints:PinHeader_1x06_P2.54mm_Vertical</field>
+        <field name="Datasheet">https://www.we-online.de/katalog/datasheet/6130xx11121.pdf</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MPN">61300611121</field>
+        <field name="Digikey PN">732-5319-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="Crystal_16MHz">
+      <description>Two pin 16 MHz crystal in HC-49 SMD footprint.</description>
+      <docs>https://ecsxtal.com/store/pdf/csm-7x-dn.pdf</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_16MHz</field>
+        <field name="Footprint">footprints:Crystal_SMD_HC49-SD</field>
+        <field name="Datasheet">https://ecsxtal.com/store/pdf/csm-7x-dn.pdf</field>
+        <field name="MFG">ECS Inc.</field>
+        <field name="MPN">ECS-160-20-5PXDN-TR</field>
+        <field name="Digikey PN">XC1299CT-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="Crystal_32768Hz">
+      <description>Two pin 16 MHz crystal in HC-49 SMD footprint.</description>
+      <docs>https://www.jauch.com/downloadfile/57fde22d50dbf_d3c203011c87952f2834/jtx310-auto-2-210512.pdf</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_32768Hz</field>
+        <field name="Footprint">footprints:Crystal_SMD_2Pin_3.2x1.5mm</field>
+        <field name="Datasheet">https://www.jauch.com/downloadfile/57fde22d50dbf_d3c203011c87952f2834/jtx310-auto-2-210512.pdf</field>
+        <field name="MFG">Jauch Quartz</field>
+        <field name="MPN">Q 0,032768-JTX310-12,5-20-T1-HMR-50K-LF</field>
+        <field name="Digikey PN">1908-1314-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="DS1307_DIP-8">
+      <description>64 x 8, Serial, I2C Real-time clock, 4.5V to 5.5V VCC, 0°C to +70°C, DIP-8</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/DS1307.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS1307_DIP-8</field>
+        <field name="Footprint">footprints:DIP-8_W7.62mm</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/DS1307.pdf</field>
+        <field name="MFG">Assmann WSW Components</field>
+        <field name="MPN">A 08-LC-TT</field>
+        <field name="Digikey PN">AE9986-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="X1" type="input"/>
+        <pin num="2" name="X2" type="input"/>
+        <pin num="3" name="VBAT" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="SQW/OUT" type="open_collector"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="LED_0805">
+      <description>RED Light emitting diode</description>
+      <docs>https://www.we-online.de/katalog/datasheet/150080RS75000.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_0805</field>
+        <field name="Footprint">footprints:LED_0805_2012Metric</field>
+        <field name="Datasheet">https://www.we-online.de/katalog/datasheet/150080RS75000.pdf</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MPN">150080RS75000</field>
+        <field name="Digikey PN">732-4984-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="LED_Display_1001">
+      <description>White 7-segment clock display - 0.56" digit height</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/1001datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">DS</field>
+        <field name="Value">LED_Display_1001</field>
+        <field name="Footprint">footprints:Adafruit-1001-0-0-MFG</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/1001datasheet.pdf</field>
+        <field name="automotive">No</field>
+        <field name="category">Disp</field>
+        <field name="device class L1">Optoelectronics</field>
+        <field name="device class L2">Displays</field>
+        <field name="device class L3">LED Displays</field>
+        <field name="digikey description">WHITE 7-SEGMENT CLOCK DISPLAY</field>
+        <field name="digikey part number">1528-1513-ND</field>
+        <field name="display type">LED</field>
+        <field name="element config">Common Cathode</field>
+        <field name="forward current">20mA</field>
+        <field name="forward voltage">3.2V</field>
+        <field name="height">8.25mm</field>
+        <field name="lead free">Yes</field>
+        <field name="library id">a002f1a2b35db532</field>
+        <field name="luminous intensity">30mcd</field>
+        <field name="manufacturer">Adafruit</field>
+        <field name="mouser description">Adafruit Accessories White 7-segment Clock Display</field>
+        <field name="mouser part number">485-1001</field>
+        <field name="package">PTH_50MM2_19MM0</field>
+        <field name="power dissipation">100mW</field>
+        <field name="reverse voltage">5V</field>
+        <field name="rohs">Yes</field>
+        <field name="temperature range high">+80°C</field>
+        <field name="temperature range low">-40°C</field>
+        <field name="test current">20mA</field>
+        <field name="MFG">Adafruit Industries LLC</field>
+        <field name="MPN">1001</field>
+        <field name="Digikey PN">1528-1513-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="DP" type="passive"/>
+        <pin num="4" name="C" type="passive"/>
+        <pin num="5" name="G" type="passive"/>
+        <pin num="6" name="COM_DIG.4" type="passive"/>
+        <pin num="7" name="COM_COLON" type="passive"/>
+        <pin num="8" name="COLON" type="passive"/>
+        <pin num="9" name="B" type="passive"/>
+        <pin num="10" name="COM_DIG.3" type="passive"/>
+        <pin num="11" name="COM_DIG.2" type="passive"/>
+        <pin num="12" name="F" type="passive"/>
+        <pin num="13" name="A" type="passive"/>
+        <pin num="14" name="COM_DIG.1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="MAX7219">
+      <description>8-Digit LED Display Driver</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf</docs>
+      <footprints>
+        <fp>SOIC*7.5x15.4mm*P1.27mm*</fp>
+        <fp>DIP*7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX7219</field>
+        <field name="Footprint">footprints:DIP-24_W7.62mm</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf</field>
+        <field name="MFG">On Shore Technology Inc.</field>
+        <field name="MPN">ED241DT</field>
+        <field name="Digikey PN">ED3049-5-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DIN" type="input"/>
+        <pin num="2" name="DIG_0" type="output"/>
+        <pin num="3" name="DIG_4" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DIG_6" type="output"/>
+        <pin num="6" name="DIG_2" type="output"/>
+        <pin num="7" name="DIG_3" type="output"/>
+        <pin num="8" name="DIG_7" type="output"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="DIG_5" type="output"/>
+        <pin num="11" name="DIG_1" type="output"/>
+        <pin num="12" name="LOAD" type="input"/>
+        <pin num="13" name="CLK" type="input"/>
+        <pin num="14" name="SEG_A" type="output"/>
+        <pin num="15" name="SEG_F" type="output"/>
+        <pin num="16" name="SEG_B" type="output"/>
+        <pin num="17" name="SEG_G" type="output"/>
+        <pin num="18" name="ISET" type="input"/>
+        <pin num="19" name="V+" type="power_in"/>
+        <pin num="20" name="SEG_C" type="output"/>
+        <pin num="21" name="SEG_E" type="output"/>
+        <pin num="22" name="SEG_DP" type="output"/>
+        <pin num="23" name="SEG_D" type="output"/>
+        <pin num="24" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="NEOPIXEL_SMT">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</docs>
+      <footprints>
+        <fp>LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">NEOPIXEL_SMT</field>
+        <field name="Footprint">footprints:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</field>
+        <field name="MFG">Inolux</field>
+        <field name="MPN">IN-PI554FCH</field>
+        <field name="Digikey PN">1830-1106-1-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="Omron_B3F_SPST">
+      <description>Omron B3F Single Pole Single Throw (SPST) 4 pin switch</description>
+      <docs>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Omron_B3F_SPST</field>
+        <field name="Footprint">footprints:SW_SPST_Omron_B3FS-100xP</field>
+        <field name="Datasheet">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf</field>
+        <field name="MFG">Omron Electronics Inc-EMC Div</field>
+        <field name="MPN">B3FS-1000P</field>
+        <field name="Digikey PN">SW423CT-ND</field>
+        <field name="Mouser PN">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+        <pin num="4" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="PJ-102AH">
+      <description> 2mm center pin, 5A DC power jack</description>
+      <docs>https://www.cuidevices.com/product/resource/pj-102ah.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-102AH</field>
+        <field name="Footprint">footprints:PJ-102AH</field>
+        <field name="Datasheet">https://www.cuidevices.com/product/resource/pj-102ah.pdf</field>
+        <field name="MFG">CUI Devices</field>
+        <field name="MPN">PJ-102AH</field>
+        <field name="Digikey PN">CP-102AH-ND</field>
+        <field name="Mouser PN">490-PJ-102AH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="POLE" type="passive"/>
+        <pin num="2" name="OUT" type="passive"/>
+        <pin num="3" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="R_0805_10K">
+      <docs>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_0805_10K</field>
+        <field name="Footprint">footprints:R_0805_2012Metric</field>
+        <field name="Datasheet">https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535</field>
+        <field name="MFG">Yageo</field>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Digikey PN">311-10.0KCRCT-ND</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="R_0805_1K">
+      <docs>https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_0805_1K</field>
+        <field name="Footprint">footprints:R_0805_2012Metric</field>
+        <field name="Datasheet">https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444</field>
+        <field name="MFG">Yageo</field>
+        <field name="Digikey PN">RC0805FR-0710KL</field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="MPN">RC0805FR-071KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="R_0805_47">
+      <docs>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0747RL/727972</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_0805_47</field>
+        <field name="Footprint">footprints:R_0805_2012Metric</field>
+        <field name="Datasheet">https://www.digikey.com/en/products/detail/yageo/RC0805FR-0747RL/727972</field>
+        <field name="MFG">Yageo</field>
+        <field name="Digikey PN">RC0805FR-0747RL </field>
+        <field name="Mouser PN">N/A</field>
+        <field name="Power">N/A</field>
+        <field name="Tolerance">N/A</field>
+        <field name="MPN">RC0805FR-0747RL </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HPS" part="TSOP38238">
+      <description>Photo Modules for PCM Remote Control Systems</description>
+      <docs>https://www.vishay.com/docs/82491/tsop382.pdf</docs>
+      <footprints>
+        <fp>Vishay*MINICAST*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TSOP38238</field>
+        <field name="Footprint">footprints:Vishay_MINICAST-3Pin</field>
+        <field name="Datasheet">https://www.vishay.com/docs/82491/tsop382.pdf</field>
+        <field name="Digikey PN">751-1227-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vs" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="HPS">
+      <uri>/Users/Andrea/Desktop/Google HPS/hps-kicad-library/symbols/HPS.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D14" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D15" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D16" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D17" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D18" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D19" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D20" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D21" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D22" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D23" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D24" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D25" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D26" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D27" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D28" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D29" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D30" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D31" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D32" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D33" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D34" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D35" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D36" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D37" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D38" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D39" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D40" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D41" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D42" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D43" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D44" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D45" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D46" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D47" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D48" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D49" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D50" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D51" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D52" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D53" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D54" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D55" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D56" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D57" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D58" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D59" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D60" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="2" pinfunction="OUT" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="22" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="IR Receiver">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="PD2" pintype="tri_state"/>
+      <node ref="U5" pin="1" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="3" name="MOSI">
+      <node ref="U3" pin="1" pinfunction="DIN" pintype="input"/>
+      <node ref="U4" pin="17" pinfunction="PB3" pintype="tri_state"/>
+    </net>
+    <net code="4" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="POLE" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="XTAL1/PB6" pintype="tri_state"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="XTAL2/PB7" pintype="tri_state"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D2-Pad4)">
+      <node ref="D2" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D3-Pad4)">
+      <node ref="D3" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D4-Pad4)">
+      <node ref="D4" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad4)">
+      <node ref="D5" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D6-Pad4)">
+      <node ref="D6" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D7-Pad4)">
+      <node ref="D7" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad4)">
+      <node ref="D8" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="4" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(D10-Pad4)">
+      <node ref="D10" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D11" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(D11-Pad4)">
+      <node ref="D11" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D12-Pad4)">
+      <node ref="D12" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D13" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(D13-Pad4)">
+      <node ref="D13" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D14" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D14-Pad4)">
+      <node ref="D14" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D15-Pad4)">
+      <node ref="D15" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(D16-Pad4)">
+      <node ref="D16" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(D17-Pad4)">
+      <node ref="D17" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(D18-Pad4)">
+      <node ref="D18" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(D19-Pad4)">
+      <node ref="D19" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(D20-Pad4)">
+      <node ref="D20" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D21" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(D21-Pad4)">
+      <node ref="D21" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D22" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(D22-Pad4)">
+      <node ref="D22" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D23" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(D23-Pad4)">
+      <node ref="D23" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D24" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(D24-Pad4)">
+      <node ref="D24" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D25" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D25-Pad4)">
+      <node ref="D25" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D26" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(D26-Pad4)">
+      <node ref="D26" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D27" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(D27-Pad4)">
+      <node ref="D27" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D28" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(D28-Pad4)">
+      <node ref="D28" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D29" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(D29-Pad4)">
+      <node ref="D29" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D30" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D30-Pad4)">
+      <node ref="D30" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D31" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(D31-Pad4)">
+      <node ref="D31" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D32" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(D32-Pad4)">
+      <node ref="D32" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D33" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(D33-Pad4)">
+      <node ref="D33" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D34" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(D34-Pad4)">
+      <node ref="D34" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D35" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(D35-Pad4)">
+      <node ref="D35" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D36" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(D36-Pad4)">
+      <node ref="D36" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D37" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(D37-Pad4)">
+      <node ref="D37" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D38" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(D38-Pad4)">
+      <node ref="D38" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D39" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(D39-Pad4)">
+      <node ref="D39" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D40" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(D40-Pad4)">
+      <node ref="D40" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D41" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(D41-Pad4)">
+      <node ref="D41" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D42" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(D42-Pad4)">
+      <node ref="D42" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D43" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(D43-Pad4)">
+      <node ref="D43" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D44" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(D44-Pad4)">
+      <node ref="D44" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D45" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(D45-Pad4)">
+      <node ref="D45" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D46" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(D46-Pad4)">
+      <node ref="D46" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D47" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(D47-Pad4)">
+      <node ref="D47" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D48" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(D48-Pad4)">
+      <node ref="D48" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D49" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(D49-Pad4)">
+      <node ref="D49" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D50" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(D50-Pad4)">
+      <node ref="D50" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D51" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(D51-Pad4)">
+      <node ref="D51" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D52" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(D52-Pad4)">
+      <node ref="D52" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D53" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(D53-Pad4)">
+      <node ref="D53" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D54" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(D54-Pad4)">
+      <node ref="D54" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D55" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(D55-Pad4)">
+      <node ref="D55" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D56" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(D56-Pad4)">
+      <node ref="D56" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D57" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(D57-Pad4)">
+      <node ref="D57" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D58" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(D58-Pad4)">
+      <node ref="D58" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D59" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(D59-Pad4)">
+      <node ref="D59" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="D60" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(D73-Pad1)">
+      <node ref="D73" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(DS1-Pad1)">
+      <node ref="DS1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="SEG_E" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(DS1-Pad2)">
+      <node ref="DS1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="SEG_D" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(DS1-Pad3)">
+      <node ref="DS1" pin="3" pinfunction="DP" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="SEG_DP" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(DS1-Pad4)">
+      <node ref="DS1" pin="4" pinfunction="C" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="SEG_C" pintype="output"/>
+    </net>
+    <net code="74" name="Net-(DS1-Pad5)">
+      <node ref="DS1" pin="5" pinfunction="G" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="SEG_G" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(DS1-Pad6)">
+      <node ref="DS1" pin="6" pinfunction="COM_DIG.4" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="DIG_3" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(DS1-Pad9)">
+      <node ref="DS1" pin="9" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="SEG_B" pintype="output"/>
+    </net>
+    <net code="77" name="Net-(DS1-Pad10)">
+      <node ref="DS1" pin="10" pinfunction="COM_DIG.3" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="DIG_2" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(DS1-Pad11)">
+      <node ref="DS1" pin="11" pinfunction="COM_DIG.2" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="DIG_1" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(DS1-Pad12)">
+      <node ref="DS1" pin="12" pinfunction="F" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="SEG_F" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(DS1-Pad13)">
+      <node ref="DS1" pin="13" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="SEG_A" pintype="output"/>
+    </net>
+    <net code="81" name="Net-(DS1-Pad14)">
+      <node ref="DS1" pin="14" pinfunction="COM_DIG.1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="DIG_0" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="PB0" pintype="tri_state"/>
+    </net>
+    <net code="85" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="PD3" pintype="tri_state"/>
+    </net>
+    <net code="86" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="PD4" pintype="tri_state"/>
+    </net>
+    <net code="87" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="PD7" pintype="tri_state"/>
+    </net>
+    <net code="88" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="ISET" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="X1" pintype="input"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="X2" pintype="input"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Outer LED Ring">
+      <node ref="D1" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="U4" pin="12" pinfunction="PD6" pintype="tri_state"/>
+    </net>
+    <net code="92" name="RESET">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW5" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="SW5" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="~{RESET}/PC6" pintype="tri_state"/>
+    </net>
+    <net code="93" name="RXD">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="PD0" pintype="tri_state"/>
+    </net>
+    <net code="94" name="SCK">
+      <node ref="U3" pin="13" pinfunction="CLK" pintype="input"/>
+      <node ref="U4" pin="19" pinfunction="PB5" pintype="tri_state"/>
+    </net>
+    <net code="95" name="SCL">
+      <node ref="U2" pin="6" pinfunction="SCL" pintype="input"/>
+      <node ref="U4" pin="28" pinfunction="PC5" pintype="tri_state"/>
+    </net>
+    <net code="96" name="SDA">
+      <node ref="U2" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U4" pin="27" pinfunction="PC4" pintype="tri_state"/>
+    </net>
+    <net code="97" name="SS">
+      <node ref="U3" pin="12" pinfunction="LOAD" pintype="input"/>
+      <node ref="U4" pin="16" pinfunction="PB2" pintype="tri_state"/>
+    </net>
+    <net code="98" name="TXD">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="PD1" pintype="tri_state"/>
+    </net>
+    <net code="99" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D21" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D22" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D23" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D24" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D25" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D26" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D27" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D28" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D29" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D30" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D31" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D32" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D33" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D34" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D35" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D36" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D37" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D38" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D39" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D40" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D41" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D42" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D43" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D44" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D45" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D46" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D47" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D48" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D49" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D50" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D51" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D52" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D53" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D54" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D55" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D56" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D57" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D58" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D59" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D60" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D73" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="SW4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="19" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="20" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="Vs" pintype="power_in"/>
+    </net>
+    <net code="100" name="unconnected-(D60-Pad4)">
+      <node ref="D60" pin="4" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(DS1-Pad7)">
+      <node ref="DS1" pin="7" pinfunction="COM_COLON" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(DS1-Pad8)">
+      <node ref="DS1" pin="8" pinfunction="COLON" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="OUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(SW1-Pad2)">
+      <node ref="SW1" pin="2" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(SW1-Pad4)">
+      <node ref="SW1" pin="4" pinfunction="B" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(SW2-Pad2)">
+      <node ref="SW2" pin="2" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(SW2-Pad4)">
+      <node ref="SW2" pin="4" pinfunction="B" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(SW3-Pad2)">
+      <node ref="SW3" pin="2" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(SW3-Pad4)">
+      <node ref="SW3" pin="4" pinfunction="B" pintype="passive+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(SW4-Pad2)">
+      <node ref="SW4" pin="2" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(SW4-Pad4)">
+      <node ref="SW4" pin="4" pinfunction="B" pintype="passive+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="SQW/OUT" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="DIG_4" pintype="output+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="DIG_6" pintype="output+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="DIG_7" pintype="output+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="DIG_5" pintype="output+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U3-Pad24)">
+      <node ref="U3" pin="24" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U4-Pad11)">
+      <node ref="U4" pin="11" pinfunction="PD5" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U4-Pad15)">
+      <node ref="U4" pin="15" pinfunction="PB1" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U4-Pad18)">
+      <node ref="U4" pin="18" pinfunction="PB4" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U4-Pad23)">
+      <node ref="U4" pin="23" pinfunction="PC0" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U4-Pad24)">
+      <node ref="U4" pin="24" pinfunction="PC1" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U4-Pad25)">
+      <node ref="U4" pin="25" pinfunction="PC2" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U4-Pad26)">
+      <node ref="U4" pin="26" pinfunction="PC3" pintype="tri_state+no_connect"/>
+    </net>
+  </nets>
+</export>
