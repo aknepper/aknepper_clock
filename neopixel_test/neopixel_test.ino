@@ -8,7 +8,7 @@
 #define PIN    6
 
 // How many NeoPixels are attached to the Arduino?
-#define NUMPIXELS 5
+#define NUMPIXELS 65
 
 // Declare our NeoPixel pixels object:
 Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
